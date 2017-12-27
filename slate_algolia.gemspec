@@ -4,6 +4,8 @@ $LOAD_PATH.push File.expand_path('../lib', __FILE__)
 Gem::Specification.new do |s|
   s.name        = 'slate_algolia'
   s.version     = '1.1.1'
+  s.authors     = ['']		
+  s.email       = ['']
   s.platform    = Gem::Platform::RUBY
   s.summary     = 'Quickly and easily index Slate Docs in Algolia'
 
